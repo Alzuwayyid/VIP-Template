@@ -48,15 +48,3 @@ make uninstall_templates
 
 * For more details about the implementation or how can you Unit Tests the app, please check the sample project inside repository **SampleVIPSwift/SampleVIPSwift.xcodeproj**
 
- 
- ### Unit Tests Template
- 
- * Will create 4 Unit Test files, representing tests for each component: ViewController, Interactor, Presenter, Router
- 
- <img width="719" alt="UnitTestsTemplate" src="https://user-images.githubusercontent.com/45980382/89118359-740e2d80-d4a5-11ea-8615-e7794955f1a0.png">
-
-
-## Problems, Suggestions, Pull Requests?
-Please open a [New Issue Here](https://github.com/Andrei-Popilian/VIP_Design_Xcode_Template/issues/new) if you run into a problem specific to those templates, have a feature request, find a better implementation, or want to share a comment.
-
-Pull requests are encouraged and greatly appreciated! Please try to maintain consistency with the existing code style. If you're considering taking on significant changes or additions to the project, please communicate in advance by opening a new Issue. This allows everyone to get onboard with upcoming changes, ensures that changes align with the project's design philosophy, and avoids duplicated work.
