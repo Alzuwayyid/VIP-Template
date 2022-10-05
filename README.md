@@ -1,18 +1,3 @@
-# VIP Xcode Templates
-VIP design pattern (Clean Architecture by Uncle Bob)
-
-To learn more about Clean Swift, please read:
-
-http://clean-swift.com/clean-swift-ios-architecture
-
-
-![VIP](https://user-images.githubusercontent.com/45980382/75621523-c2856c00-5b95-11ea-8d11-8a23810ef252.png)
-
-
-
-### Table of Contents
- 1. [Installation](#installation)
- 2. [Problems, Suggestions, Pull Requests?](#problems-suggestions-pull-requests)
 
 ## Installation
 
@@ -37,14 +22,10 @@ make uninstall_templates
 
 ### Scene Template
 
-<img width="722" alt="SceneTemplate" src="https://user-images.githubusercontent.com/45980382/89118348-5e006d00-d4a5-11ea-93d4-c7e406f201da.png">
+<img width="722" alt="SceneTemplate" src="https://i.ibb.co/SVPNRQw/Screen-Shot-2022-10-05-at-3-05-08-PM.png">
 
 * Set a scene name and it should generate all the needed files: ViewController, Interactor, Presenter, Router, View and Model
 
 * **Additions**: With or without Dependecy Injection
 <img width="294" alt="Screenshot 2019-12-16 at 17 30 58" src="https://user-images.githubusercontent.com/45980382/75621562-53f4de00-5b96-11ea-8673-5e6168eecc18.png">
-
-* Factory Dependency Injection will add 1 more file **(SceneName)Factorable**, and the entire implementation will support **Factory** Dependecy Injection pattern
-
-* For more details about the implementation or how can you Unit Tests the app, please check the sample project inside repository **SampleVIPSwift/SampleVIPSwift.xcodeproj**
 
