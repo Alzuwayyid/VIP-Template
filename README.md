@@ -29,3 +29,4 @@ make uninstall_templates
 * **Additions**: With or without Dependecy Injection
 <img width="294" alt="Screenshot 2019-12-16 at 17 30 58" src="https://user-images.githubusercontent.com/45980382/75621562-53f4de00-5b96-11ea-8673-5e6168eecc18.png">
 
+This repository is a fork from: https://github.com/Andrei-Popilian/VIP_Design_Xcode_Template
