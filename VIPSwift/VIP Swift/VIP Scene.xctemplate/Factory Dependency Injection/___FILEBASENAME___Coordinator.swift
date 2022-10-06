@@ -14,10 +14,6 @@ protocol ___VARIABLE_sceneName___Router: AnyObject {
 class ___VARIABLE_sceneName___Coordinator: ___VARIABLE_sceneName___Router {
     private weak var viewController: ___VARIABLE_sceneName___DisplayLogic?
     
-    init(viewController: ___VARIABLE_sceneName___DisplayLogic?) {
-        self.viewController = viewController
-    }
-    
     func start(from source: UIViewController) {
         let viewController = ___VARIABLE_sceneName___ViewController.loadFromNib()
         viewController.interactor = ___VARIABLE_sceneName___Interactor()

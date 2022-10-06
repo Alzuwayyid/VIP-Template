@@ -76,13 +76,13 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Router</string>
+			<string>___VARIABLE_sceneName:identifier___Coordinator</string>
 			<key>Description</key>
 			<string>The router name</string>
 			<key>Identifier</key>
 			<string>routerName</string>
 			<key>Name</key>
-			<string>Router Name:</string>
+			<string>Coordinator Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
